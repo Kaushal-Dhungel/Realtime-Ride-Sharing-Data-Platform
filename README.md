@@ -1,9 +1,5 @@
 ## Real-Time Ride Sharing Data Platform (Azure/Databricks)
 
-![Databricks ETL Pipeline](Resources/ETL-Pipeline.png)
-
-
-
 ### Overview
 *This project builds an end-to-end real-time data pipeline for a ride-booking system using Azure. It combines streaming + batch ingestion and* 
 *transforms data into an analytics-ready star schema.*
@@ -22,7 +18,7 @@
 - **Databricks (Spark)** → processing (Bronze → Silver → Gold)  
 - **Gold Layer** → Star schema (Fact + Dimensions)
 
-![Azure Data Factory Pipeline](Resources/AzureDf.png)
+![Azure Data Factory Pipeline](Resources/AzureDF.png)
 
 ---
 
